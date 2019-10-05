@@ -1,2 +1,2 @@
-# practice
-practice for ai ml club
+## Practice
+Practice for AI ML club
