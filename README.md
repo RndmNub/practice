@@ -5,16 +5,16 @@
   3.Numpy
   4.Matplotlib(matplotlib.pyplot)
 ## Sklear Modules
- ### Linear Regression , Ridge, Lasso from LinearModel
- ### StandardScaler from preprocessing
- ### Train test split from model_selection
+ ### 1. Linear Regression , Ridge, Lasso from LinearModel
+ ### 2. StandardScaler from preprocessing
+ ### 3. Train test split from model_selection
  
 ## Pd Modules
-  ### dataframes
+  ### 1. dataframes
 ## Numpy modules
   ### 
   
 ## plt modules
-  ### bar
-  ### plot
-  ### scatter
+  ### 1. bar
+  ### 2. plot
+  ### 3. scatter
